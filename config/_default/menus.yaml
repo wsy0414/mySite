@@ -1,5 +1,9 @@
 main:
     # Unique identifier for a menu item
+    -   identifier: home
+        url: /
+        name: Home
+        weight: 1
     -   identifier: "posts"
         url: /posts/
         
