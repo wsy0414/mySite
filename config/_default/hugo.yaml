@@ -1,0 +1,5 @@
+baseURL: https://example.org/
+defaultContentLanguage: en
+languageCode: en-us
+title: Ivan
+theme: gokarna
